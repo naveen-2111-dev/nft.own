@@ -5,20 +5,22 @@ import config from "../hardhat.js";
 
 async function main() {
   console.log("deploying...");
-  const contract_json = path.resolve(
+  const contract_json_abi = path.resolve(
     process.cwd(),
-    "artifacts/contracts/NFT.sol/NFTs.json"
+    "artifacts/contracts_NFT_sol_NFTs.abi"
   );
 
-  const data = JSON.parse(fs.readFileSync(contract_json, "utf-8"));
+  const contract_json_bin = path.resolve(
+    process.cwd(),
+    "artifacts/contracts_NFT_sol_NFTs.bin"
+  );
+
+  const data_abi = JSON.parse(fs.readFileSync(contract_json_abi, "utf-8"));
+  const data_bin = fs.readFileSync(contract_json_bin, "utf-8").trim();
   const provider = new ethers.JsonRpcProvider(config.networks.sepolia.url);
   const signer = new ethers.Wallet(process.env.PRIVATE_KEY, provider);
 
-  const NFTFactory = new ethers.ContractFactory(
-    data.abi,
-    data.bytecode,
-    signer
-  );
+  const NFTFactory = new ethers.ContractFactory(data_abi, data_bin, signer);
   const factory = await NFTFactory.deploy();
   await factory.waitForDeployment();
 
