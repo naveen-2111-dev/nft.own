@@ -1,0 +1,27 @@
+{
+  "name": "Crystal Reaper",
+  "description": "A fusion of extraterrestrial brilliance and mortal decay, this NFT presents a skull encased in a dazzling diamond-like crystalline structure, reminiscent of the legendary alien warriors. Draped in a casual yet rugged belted attire, it exudes both power and mystery. The crystalline head refracts light into an eerie glow, hinting at the unknown forces within. A perfect blend of otherworldly resilience and earthly mortality—an NFT that stands beyond time",
+  "image": "ipfs://bafkreictvvpricgfzuccxvsgs34ptlp7oi53j5csofclcujrc3tvhnxpcu",
+  "attributes": [
+    {
+      "trait_type": "Head",
+      "value": "Diamond Skull"
+    },
+    {
+      "trait_type": "Attire",
+      "value": "Casual Belted Outfit"
+    },
+    {
+      "trait_type": "Texture",
+      "value": "Crystalline"
+    },
+    {
+      "trait_type": "Aura",
+      "value": "Ethereal Shine"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Mythic"
+    }
+  ]
+}

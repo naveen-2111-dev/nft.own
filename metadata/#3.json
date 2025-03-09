@@ -1,0 +1,35 @@
+{
+  "name": "The Apologetic Phantom",
+  "description": "A shadowy enigma draped in regret, this NFT features a sleek, slim skull with a sharply defined face—an embodiment of mystery and quiet sorrow. A black cap sits atop its head, boldly embroidered with the word 'SORRY,' matching the black t-shirt that carries the same haunting message. A symbol of unspoken words and unsent apologies, this piece captures the essence of reflection, darkness, and untold stories.",
+  "image": "ipfs://bafkreifv34zuihwaaaiz2tgdeeyawunlpf4nbhfptmxxn7qi3dhgevdudm",
+  "attributes": [
+    {
+      "trait_type": "Head",
+      "value": "Slim Skull"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Sleek and Sharp"
+    },
+    {
+      "trait_type": "Cap",
+      "value": "Black with 'SORRY' Text"
+    },
+    {
+      "trait_type": "Attire",
+      "value": "Black T-shirt with 'SORRY' Text"
+    },
+    {
+      "trait_type": "Aura",
+      "value": "Mysterious Vibe"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Dark Fog"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    }
+  ]
+}

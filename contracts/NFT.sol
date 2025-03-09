@@ -10,11 +10,11 @@ contract NFTs is ERC721URIStorage {
 
     function autoMint() internal {
         string[5] memory TokenUrls = [
-            "https://ipfs.io/ipfs/bafkreifyovti23vbhljf2err6k3elki3pbk3d2g7qvpglbpxu2aau3toxi",
-            "https://ipfs.io/ipfs/bafkreictvvpricgfzuccxvsgs34ptlp7oi53j5csofclcujrc3tvhnxpcu",
-            "https://ipfs.io/ipfs/bafkreifv34zuihwaaaiz2tgdeeyawunlpf4nbhfptmxxn7qi3dhgevdudm",
-            "https://ipfs.io/ipfs/bafkreiddiumsnu6bbn6f4hd2kkmtklnul7v5eooxufnqkhznvmg5f34pee",
-            "https://ipfs.io/ipfs/bafkreic2g5bl3qxwi4idgrfhzzyytekbjkykq2czqq2wpblbtswu4yob74"
+            "ipfs://bafkreickybdnyzvkomv5knho3vv3g2jznxjgx4bugqqppncapvcba7xctm",
+            "ipfs://bafkreif7fujvtb3ixugy4kod75ro4osfx3txgqiq64wisw23hfdxfihwci",
+            "ipfs://bafkreiervrkvfr4ipzed5glauklj45pvsgohztexet5xyqttffl746ixmy",
+            "ipfs://bafkreihfaqt57i3udomc7pudzzulfjxzuzsmxmdflaycic2isra5i557ya",
+            "ipfs://bafkreig2rthqkr5hky3mgeoo3rggderu5pg3s6bxlx664mzmk7e5wpwbxi"
         ];
 
         for (uint256 i = 0; i < TokenUrls.length; i++) {

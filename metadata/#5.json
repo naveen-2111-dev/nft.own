@@ -1,0 +1,35 @@
+{
+  "name": "Chill Bone",
+  "description": "A simple yet stylish skull that embodies a laid-back and carefree vibe. Dressed in a cozy pink hoodie against a vibrant blue background, this character exudes a mix of innocence and mystery. With its large, round, deep eyes and a tiny skeletal nose, it has an effortlessly cool and minimalistic appeal. A perfect blend of casual and spooky, making it a standout piece in any collection.",
+  "image": "ipfs://bafkreic2g5bl3qxwi4idgrfhzzyytekbjkykq2czqq2wpblbtswu4yob74",
+  "attributes": [
+    {
+      "trait_type": "Head",
+      "value": "Minimalist Skull"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Large Black Hollow"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Pink Hoodie"
+    },
+    {
+      "trait_type": "Expression",
+      "value": "Chill & Neutral"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Bright Blue"
+    },
+    {
+      "trait_type": "Vibe",
+      "value": "Casual & Cool"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Psychedelic Skull Drip",
+  "description": "A mind-melting fusion of chaos and style, this NFT showcases a surreal, melting skull with exposed brains, draped in neon colors that radiate a trippy, psychedelic aura. Sporting sleek shades with bold insignias and a punk-inspired jacket adorned with custom patches, this character oozes rebellion and attitude. A mischievous, snake-like tongue stretches out, embodying pure energy and unfiltered expression. This is a symbol of the wild, the fearless, and the unapologetically unique.",
+  "image": "ipfs://bafkreiddiumsnu6bbn6f4hd2kkmtklnul7v5eooxufnqkhznvmg5f34pee",
+  "attributes": [
+    {
+      "trait_type": "Head",
+      "value": "Melting Skull"
+    },
+    {
+      "trait_type": "Brain",
+      "value": "Exposed Pink Brain"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Hidden Behind Shades"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "White with Black SS Design"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sharp Fangs with Long Tongue"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "Blue Punk Vest with Patches"
+    },
+    {
+      "trait_type": "Aura",
+      "value": "Psychedelic Vibes"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Vibrant Orange"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    }
+  ]
+}

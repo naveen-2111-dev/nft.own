@@ -1,0 +1,23 @@
+{
+  "name": "The Dapper Reaper",
+  "description": "A striking fusion of mystery and elegance, this NFT showcases a skeletal skull head seamlessly blended with a formal, well-groomed appearance. Flowing hair cascades down, adding an unexpected touch of sophistication to the eerie frame. A lit cigarette rests between the teeth, exhaling wisps of smoke that twist into the unknown. This piece embodies the contrast between life and decay, chaos and order—a true collector's masterpiece.",
+  "image": "ipfs://bafkreifyovti23vbhljf2err6k3elki3pbk3d2g7qvpglbpxu2aau3toxi",
+  "attributes": [
+    {
+      "trait_type": "Head",
+      "value": "Skull"
+    },
+    {
+      "trait_type": "Attire",
+      "value": "Formal Suit"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Slicked Back"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Lit Cigarette"
+    }
+  ]
+}
